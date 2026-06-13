@@ -3,7 +3,7 @@ import aiosqlite
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
-TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН"
+TOKEN = "8771032076:AAEQHvzJA019NDCM3RupsAN0i8p94MAOqjE"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
